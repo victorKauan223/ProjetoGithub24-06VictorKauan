@@ -1,0 +1,44 @@
+*{  font-family: 'Arial Narrow Bold';
+    font-size: 3vh;
+
+
+}
+
+h2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.container-12{
+    align-items: right;
+  display: flex;
+  justify-content: right;
+  }
+  
+
+h1{
+    padding: 5vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    border: white;
+    border-color: #476072;
+    border-radius: 5vh;
+    border-bottom: 10px;
+    border-style: solid;
+    padding-bottom: 5vh;
+}
+p{
+    color: white;
+
+}
+  body{
+    background-color: #476072;
+  }
+
+
+
+  

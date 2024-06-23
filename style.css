@@ -1,0 +1,39 @@
+*{
+  font-family: 'Arial Narrow Bold';
+  font-size: 3vh;
+ 
+}
+
+.container-12{
+  align-items: right;
+display: flex;
+justify-content: right;
+}
+
+body{
+  background-color: #476072;
+}
+
+
+.navbar{
+  background-color: #476072;
+}
+
+h3 {
+  padding-bottom: 5vh;
+  border: 10px;
+  border-color: #476072;
+  border-radius: 5vh;
+  border-bottom: 10px;
+  border-style: solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.card h2{
+  padding: vh;
+
+}
+
+
